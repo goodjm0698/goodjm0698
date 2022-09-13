@@ -16,4 +16,4 @@ Now I'm student of [**Korea University, Computer Science & Engineering**](https:
 ## 📬 Connect with me  
 [![Instagram Badge](https://img.shields.io/badge/-jae_mini_02-E4405F?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jae_mini_02/)](https://www.instagram.com/jae_mini_02/)
 [![Gmail Badge](https://img.shields.io/badge/-goodjm0698@korea.ac.kr-EA4335?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:goodjm0698@korea.ac.kr)](mailto:goodjm0698@korea.ac.kr)
-[![Gmail Badge](https://img.shields.io/badge/-goodjm0698@korea.ac.kr-EA4335?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:goodjm0698@korea.ac.kr)](mailto:goodjm0698@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-goodjm0698@gmail.com-EA4335?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:goodjm0698@gmail.com)](mailto:goodjm0698@gmail.com)
