@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Jae Min Kim.\
--Graduated **Gyeongnam Science High School**\.
+-Graduated **Gyeongnam Science High School**\.  
 -Now I'm student of [**Korea University, Computer Science & Engineering**](https://www.korea.ac.kr/).
 
 ### ⚡ Technologies
