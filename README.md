@@ -1,3 +1,6 @@
+<div align="center">
+
+
 ### Hi there 👋
 I am Jae Min Kim.\
 -Graduated **Gyeongnam Science High School**\.  
