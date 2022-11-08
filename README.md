@@ -17,3 +17,9 @@ I am Jae Min Kim.\
 [![Instagram Badge](https://img.shields.io/badge/-jae_mini_02-E4405F?style=plastic-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jae_mini_02/)](https://www.instagram.com/jae_mini_02/)
 [![Gmail Badge](https://img.shields.io/badge/-goodjm0698@korea.ac.kr-EA4335?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:goodjm0698@korea.ac.kr)](mailto:goodjm0698@korea.ac.kr)
 [![Gmail Badge](https://img.shields.io/badge/-goodjm0698@gmail.com-EA4335?style=flat-plastic&logo=Gmail&logoColor=white&link=mailto:goodjm0698@gmail.com)](mailto:goodjm0698@gmail.com)
+
+### 💡 My Most Used Language 💡
+<a href="https://github.com/goodjm0698">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodjm0698&layout=compact&show_icons=false&show_owner=goodjm0698&hide_title=false&theme=vue&hide=false" />
+  </a>
+<br/>
