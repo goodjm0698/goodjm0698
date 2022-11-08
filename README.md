@@ -25,5 +25,6 @@ I am Jae Min Kim.\
 ### 💡 My Most Used Language 💡
 <a href="https://github.com/goodjm0698">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodjm0698&layout=compact&show_icons=false&show_owner=goodjm0698&hide_title=false&theme=vue&hide=false" />
-  </a>
-<br/>
+</a>
+    
+</div>  
