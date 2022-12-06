@@ -5,6 +5,7 @@
 I am Jae Min Kim.\
 -Graduated **Gyeongnam Science High School**\.  
 -Now I'm student of [**Korea University, Computer Science & Engineering**](https://www.korea.ac.kr/).
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodjm0698)](https://solved.ac/goodjm0698/)
 
 
 ### ⚡ Technologies
